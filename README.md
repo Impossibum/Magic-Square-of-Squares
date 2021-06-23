@@ -1,2 +1,2 @@
 # Magic Square of Squares
- a solution to find a magic square made of squares
+ A solution to find a magic square made of squares using Python 3
